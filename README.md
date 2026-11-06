@@ -2,6 +2,8 @@
 
 Mutes the ads in a tennis stream playing in Chrome, then brings the sound back when play returns. It runs locally with [Liquid AI's d1-2B](https://huggingface.co/LiquidAI/d1-2B) and a small OpenCV logo check. There's no training and no template to make.
 
+**Video:** [how I built and tested it, and how it did against OpenCV](https://youtu.be/qfP_UvznsbQ)
+
 Every 2 seconds it asks d1 one question about the current frame: "Is this part of a live tennis broadcast?"
 
 ## Setup
