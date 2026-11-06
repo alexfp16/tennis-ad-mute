@@ -1,0 +1,10 @@
+captures/
+logs/
+*.log
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.jsonl
+*.gguf
+__pycache__/
